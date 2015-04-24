@@ -2,8 +2,10 @@
 
 import praw
 
+from login_info import *
+
 # naming bot to comply with Reddit API
-user_agent = ("Beyond Thunderdome 0.1")
+user_agent = user_agent
 
 r = praw.Reddit(user_agent = user_agent)
 

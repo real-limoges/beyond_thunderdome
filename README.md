@@ -1,4 +1,4 @@
-This is a reddit bot that has one purpose: responding to anytime someone uses "Thunderdome" in reddit comments.
+This is a reddit bot that has one purpose: responding to anytime someone uses "Thunderdome" in reddit comments. The response is (of course) : "Oh come on, can't we just get beyond Thunderdome?"
 
 Inspired by the classic MST3K sketch : https://www.youtube.com/watch?v=XEI_udV88i4
 
